@@ -23,6 +23,7 @@ import org.springframework.stereotype.Component;
 /**
  *
  * @author sotobotero
+ modificacio 1
  */
 /*@Component
 @Order(Ordered.HIGHEST_PRECEDENCE)
